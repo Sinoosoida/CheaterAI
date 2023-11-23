@@ -12,6 +12,8 @@ https://huggingface.co/philschmid/pyannote-segmentation
 
 https://huggingface.co/pyannote/embedding
 
+https://huggingface.co/philschmid/pyannote-speaker-diarization-endpoint
+
 Делать аудиофрагменты на те, когда говорит сдающий, и когда говорит не сдающий.
 
 Когда кто-либо перестаёт говорить, или говорит слишком долго, толкать в whisper
